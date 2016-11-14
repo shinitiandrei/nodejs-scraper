@@ -9,7 +9,7 @@
     "url": "https://github.com/shinitiandrei/scraper-nodejs"
   },
   "dependencies": {
-    "Xray": "latest",
+    "xray": "latest",
     "express": "latest",
     "request": "latest"
   }
