@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-scraper",
+  "version": "0.0.1",
+  "description": "Nodejs Scraper",
+  "main": "server.js",
+  "author": "Andrei Shiniti Nakagawa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinitiandrei/scraper-nodejs"
+  },
+  "dependencies": {
+    "Xray": "latest",
+    "express": "latest",
+    "request": "latest"
+  }
+}
